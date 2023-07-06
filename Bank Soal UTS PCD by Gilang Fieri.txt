@@ -1,0 +1,108 @@
+Nama	: Gilang Fieri Armadhan D Putra
+NPM 	: 011180208
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1. Soal : Agar pesan yang ingin disampaikan pada unsur grafis dapat disampaikan dengan tepat. Maka ada dua hal yang penting dalam menyusun sebuah layout, yaitu ....
+a. Peroganisasian dan penghayatan unsur grafis
+b. Peroganisasian dan penataan unsur grafis
+c. Penataan dan perlakuan unsur grafis
+d. Penghayatan dan perlakuan unsur grafis
+e. Perlakuan unsur grafis dan penghayatan unsur grafis
+
+Jawaban : B
+
+2. Soal : Berikut ini merupakan aplikasi pengolahan citra 2D yang paling kompleks adalah ....
+a. Adobe Flash Player
+b. GIMP
+c. Paint
+d. CorelDraw
+e. Background eraser
+
+Jawaban : D
+
+3. Soal : Berikut ini yang merupakan fungsi dari adobe Photoshop adalah ....
+a. Membuat poster dan mading
+b. Membuat objek 3D
+c. Editing Photo
+d. Rendering
+e. Eraser
+Jawaban : C
+
+4. Soal : Warna yang diperoleh dari campuran dua warna primer dengan perbandingan yang sama adalah ....
+a. Warna primer
+b. Warna sekunder
+c. Warna tesier
+d. Warna kontras
+e. Warna standard
+Jawaban : B
+
+5. Soal : Berikut ini merupakan format file yang terbatas dan tidak cocok digunakan untuk cetak adalah ....
+a. EPS
+b. JPG
+c. GIF
+d. BMP
+e. 3GP
+Jawaban : D
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Soal : Aplikasi yang sangat digunakan pada pengolahan citra digital adalah ....
+a. Picsart
+b. CorelDRAW
+c. Adobe Photoshop
+d. Background Eraser
+e. Paint
+
+Jawaban : (a,b,c,e)
+
+7. Soal : Dalam efek blur dibagi beberapa tipe, yaitu ....
+a. Gaussian blur
+b. Radial blur
+c. Smart blur
+d. Basic Blur
+e. Opacity blur
+
+Jawaban : (a,b,c)
+
+8. Soal : Tool dalam Pathfinder dibagi dalam kelompok yaitu ....
+a. Basic modes
+b. Layer
+c. Navigator
+d. Shapes modes
+e. Pathfinder
+Jawaban : (d,e)
+
+9. Soal : Ada tipe-tipe gradiasi warna yaitu ....
+a. Linear
+b. Radial
+c. Angular
+d. Reflected
+e. Tool
+Jawaban : (a,b)
+
+10. Soal : Ada efek yang berada di Adobe Illustrator yaitu ....
+a. Extrude & Bevel
+b. Drop Shadow
+c. Smart Shadow
+d. Radial
+e. Outer Glow
+Jawaban : (a,b,e)
+
+
+11. Soal : Perbedaan efek antara Gaussian blur dan smart blur, Gaussian blur membuat objek menjadi blur secara keseluruhan dan smart blur memberikan efek blur dengan berbagai pengaturan lebih detail.
+Jawaban :Benar
+
+12. Soal : Gradient untuk membuat efek outline pada objek di Adobe Illustrator.
+Jawaban :Salah
+
+13. Soal : Unite salah satu fungsi pathfinder yang berguna untuk menyatukan beberapa objek menjadi satu.
+Jawaban :Benar
+
+14. Soal : Vektor yang dibuat dari unsur garis dan kurva.
+Jawaban :Benar
+
+15. Soal : .gif untuk menghasilkan detail gambar yang sesuai dan detail
+Jawaban :Benar
+
+
